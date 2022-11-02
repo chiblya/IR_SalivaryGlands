@@ -1,0 +1,325 @@
+"","from","to","value","pairs"
+"1","Acinar","Acinar",0,NA
+"2","T-cell","Acinar",0,""
+"3","B-cell","Acinar",0,""
+"4","ID","Acinar",0,""
+"5","Fibroblasts","Acinar",0,""
+"6","Macrophages","Acinar",0,""
+"7","NK cell","Acinar",0,""
+"8","Basal duct","Acinar",0,""
+"9","Endothelial","Acinar",0,""
+"10","Ionocytes","Acinar",0,""
+"11","Plasma cells","Acinar",0,NA
+"12","Monocytes","Acinar",0,""
+"13","Myoepithelial","Acinar",0,""
+"14","Pericytes","Acinar",0,""
+"15","Neutrophils","Acinar",0,NA
+"16","SD","Acinar",0,""
+"17","Proliferative","Acinar",0,NA
+"18","Lymphatic","Acinar",0,""
+"19","Acinar","T-cell",0,NA
+"20","T-cell","T-cell",0,""
+"21","B-cell","T-cell",0,""
+"22","ID","T-cell",0,""
+"23","Fibroblasts","T-cell",0,""
+"24","Macrophages","T-cell",0,""
+"25","NK cell","T-cell",0,""
+"26","Basal duct","T-cell",0,""
+"27","Endothelial","T-cell",0,""
+"28","Ionocytes","T-cell",0,""
+"29","Plasma cells","T-cell",0,NA
+"30","Monocytes","T-cell",0,""
+"31","Myoepithelial","T-cell",0,""
+"32","Pericytes","T-cell",0,""
+"33","Neutrophils","T-cell",0,NA
+"34","SD","T-cell",0,""
+"35","Proliferative","T-cell",0,NA
+"36","Lymphatic","T-cell",0,""
+"37","Acinar","B-cell",0,NA
+"38","T-cell","B-cell",0,""
+"39","B-cell","B-cell",0,""
+"40","ID","B-cell",1,"CX3CL1_CX3CR1"
+"41","Fibroblasts","B-cell",0,""
+"42","Macrophages","B-cell",0,""
+"43","NK cell","B-cell",0,""
+"44","Basal duct","B-cell",0,""
+"45","Endothelial","B-cell",1,"CX3CL1_CX3CR1"
+"46","Ionocytes","B-cell",1,"CX3CL1_CX3CR1"
+"47","Plasma cells","B-cell",0,NA
+"48","Monocytes","B-cell",0,""
+"49","Myoepithelial","B-cell",0,""
+"50","Pericytes","B-cell",0,""
+"51","Neutrophils","B-cell",0,NA
+"52","SD","B-cell",1,"CX3CL1_CX3CR1"
+"53","Proliferative","B-cell",0,NA
+"54","Lymphatic","B-cell",0,""
+"55","Acinar","ID",0,NA
+"56","T-cell","ID",0,""
+"57","B-cell","ID",0,""
+"58","ID","ID",0,""
+"59","Fibroblasts","ID",1,"FGF10_FGFR2"
+"60","Macrophages","ID",0,""
+"61","NK cell","ID",0,""
+"62","Basal duct","ID",0,""
+"63","Endothelial","ID",0,""
+"64","Ionocytes","ID",0,""
+"65","Plasma cells","ID",0,NA
+"66","Monocytes","ID",0,""
+"67","Myoepithelial","ID",0,""
+"68","Pericytes","ID",0,""
+"69","Neutrophils","ID",0,NA
+"70","SD","ID",0,""
+"71","Proliferative","ID",0,NA
+"72","Lymphatic","ID",0,""
+"73","Acinar","Fibroblasts",0,NA
+"74","T-cell","Fibroblasts",0,""
+"75","B-cell","Fibroblasts",0,""
+"76","ID","Fibroblasts",0,""
+"77","Fibroblasts","Fibroblasts",5,"PGF_NRP1, JAG1_NOTCH2, FGF7_FGFR1, FGF2_FGFR1, FGF10_FGFR1"
+"78","Macrophages","Fibroblasts",0,""
+"79","NK cell","Fibroblasts",1,"NCAM1_FGFR1"
+"80","Basal duct","Fibroblasts",2,"JAG2_NOTCH2, JAG1_NOTCH2"
+"81","Endothelial","Fibroblasts",4,"PGF_NRP1, JAG2_NOTCH2, JAG1_NOTCH2, FGF2_FGFR1"
+"82","Ionocytes","Fibroblasts",0,""
+"83","Plasma cells","Fibroblasts",0,NA
+"84","Monocytes","Fibroblasts",0,""
+"85","Myoepithelial","Fibroblasts",2,"PGF_NRP1, JAG2_NOTCH2"
+"86","Pericytes","Fibroblasts",4,"PGF_NRP1, NTF3_NTRK2, JAG1_NOTCH2, FGF7_FGFR1"
+"87","Neutrophils","Fibroblasts",0,NA
+"88","SD","Fibroblasts",0,""
+"89","Proliferative","Fibroblasts",0,NA
+"90","Lymphatic","Fibroblasts",1,"JAG1_NOTCH2"
+"91","Acinar","Macrophages",0,NA
+"92","T-cell","Macrophages",0,""
+"93","B-cell","Macrophages",0,""
+"94","ID","Macrophages",0,""
+"95","Fibroblasts","Macrophages",3,"PGF_NRP2, PGF_NRP1, JAG1_NOTCH2"
+"96","Macrophages","Macrophages",0,""
+"97","NK cell","Macrophages",0,""
+"98","Basal duct","Macrophages",2,"JAG2_NOTCH2, JAG1_NOTCH2"
+"99","Endothelial","Macrophages",4,"PGF_NRP2, PGF_NRP1, JAG2_NOTCH2, JAG1_NOTCH2"
+"100","Ionocytes","Macrophages",0,""
+"101","Plasma cells","Macrophages",0,NA
+"102","Monocytes","Macrophages",0,""
+"103","Myoepithelial","Macrophages",3,"PGF_NRP2, PGF_NRP1, JAG2_NOTCH2"
+"104","Pericytes","Macrophages",3,"PGF_NRP2, PGF_NRP1, JAG1_NOTCH2"
+"105","Neutrophils","Macrophages",0,NA
+"106","SD","Macrophages",0,""
+"107","Proliferative","Macrophages",0,NA
+"108","Lymphatic","Macrophages",1,"JAG1_NOTCH2"
+"109","Acinar","NK cell",0,NA
+"110","T-cell","NK cell",0,""
+"111","B-cell","NK cell",0,""
+"112","ID","NK cell",1,"CX3CL1_CX3CR1"
+"113","Fibroblasts","NK cell",0,""
+"114","Macrophages","NK cell",0,""
+"115","NK cell","NK cell",0,""
+"116","Basal duct","NK cell",0,""
+"117","Endothelial","NK cell",1,"CX3CL1_CX3CR1"
+"118","Ionocytes","NK cell",1,"CX3CL1_CX3CR1"
+"119","Plasma cells","NK cell",0,NA
+"120","Monocytes","NK cell",0,""
+"121","Myoepithelial","NK cell",0,""
+"122","Pericytes","NK cell",0,""
+"123","Neutrophils","NK cell",0,NA
+"124","SD","NK cell",1,"CX3CL1_CX3CR1"
+"125","Proliferative","NK cell",0,NA
+"126","Lymphatic","NK cell",0,""
+"127","Acinar","Basal duct",0,NA
+"128","T-cell","Basal duct",0,""
+"129","B-cell","Basal duct",0,""
+"130","ID","Basal duct",2,"RTN4_NGFR, APP_NGFR"
+"131","Fibroblasts","Basal duct",4,"RTN4_NGFR, FGF10_FGFR3, FGF10_FGFR2, APP_NGFR"
+"132","Macrophages","Basal duct",1,"RTN4_NGFR"
+"133","NK cell","Basal duct",0,""
+"134","Basal duct","Basal duct",2,"RTN4_NGFR, APP_NGFR"
+"135","Endothelial","Basal duct",2,"RTN4_NGFR, APP_NGFR"
+"136","Ionocytes","Basal duct",1,"APP_NGFR"
+"137","Plasma cells","Basal duct",0,NA
+"138","Monocytes","Basal duct",1,"RTN4_NGFR"
+"139","Myoepithelial","Basal duct",0,""
+"140","Pericytes","Basal duct",3,"RTN4_NGFR, NTF3_NGFR, APP_NGFR"
+"141","Neutrophils","Basal duct",0,NA
+"142","SD","Basal duct",0,""
+"143","Proliferative","Basal duct",0,NA
+"144","Lymphatic","Basal duct",3,"RTN4_NGFR, NTS_NGFR, APP_NGFR"
+"145","Acinar","Endothelial",0,NA
+"146","T-cell","Endothelial",1,"UBA52_NOTCH1"
+"147","B-cell","Endothelial",2,"UBA52_NOTCH1, ADAM17_NOTCH1"
+"148","ID","Endothelial",0,""
+"149","Fibroblasts","Endothelial",7,"PGF_NRP2, PGF_NRP1, PGF_FLT1, MFAP5_NOTCH1, MFAP2_NOTCH1, JAG1_NOTCH1, JAG1_NOTCH4"
+"150","Macrophages","Endothelial",2,"PSEN1_NOTCH1, ADAM17_NOTCH1"
+"151","NK cell","Endothelial",1,"MFNG_NOTCH1"
+"152","Basal duct","Endothelial",6,"JAG2_NOTCH1, JAG2_NOTCH4, JAG1_NOTCH1, JAG1_NOTCH4, DLL1_NOTCH1, DLK2_NOTCH1"
+"153","Endothelial","Endothelial",10,"PGF_NRP2, PGF_NRP1, PGF_FLT1, MFNG_NOTCH1, JAG2_NOTCH1, JAG2_NOTCH4, JAG1_NOTCH1, JAG1_NOTCH4, DLL4_NOTCH1, DLL1_NOTCH1"
+"154","Ionocytes","Endothelial",0,""
+"155","Plasma cells","Endothelial",0,NA
+"156","Monocytes","Endothelial",4,"UBA52_NOTCH1, PSEN1_NOTCH1, MFNG_NOTCH1, ADAM17_NOTCH1"
+"157","Myoepithelial","Endothelial",7,"PGF_NRP2, PGF_NRP1, PGF_FLT1, JAG2_NOTCH1, JAG2_NOTCH4, DLK2_NOTCH1, DLK1_NOTCH1"
+"158","Pericytes","Endothelial",5,"PGF_NRP2, PGF_NRP1, PGF_FLT1, JAG1_NOTCH1, JAG1_NOTCH4"
+"159","Neutrophils","Endothelial",0,NA
+"160","SD","Endothelial",0,""
+"161","Proliferative","Endothelial",0,NA
+"162","Lymphatic","Endothelial",5,"MFAP2_NOTCH1, JAG1_NOTCH1, JAG1_NOTCH4, DLL4_NOTCH1, DLL1_NOTCH1"
+"163","Acinar","Ionocytes",0,NA
+"164","T-cell","Ionocytes",0,""
+"165","B-cell","Ionocytes",0,""
+"166","ID","Ionocytes",2,"RTN4_NGFR, APP_NGFR"
+"167","Fibroblasts","Ionocytes",3,"RTN4_NGFR, FGF10_FGFR2, APP_NGFR"
+"168","Macrophages","Ionocytes",1,"RTN4_NGFR"
+"169","NK cell","Ionocytes",0,""
+"170","Basal duct","Ionocytes",2,"RTN4_NGFR, APP_NGFR"
+"171","Endothelial","Ionocytes",2,"RTN4_NGFR, APP_NGFR"
+"172","Ionocytes","Ionocytes",1,"APP_NGFR"
+"173","Plasma cells","Ionocytes",0,NA
+"174","Monocytes","Ionocytes",1,"RTN4_NGFR"
+"175","Myoepithelial","Ionocytes",0,""
+"176","Pericytes","Ionocytes",3,"RTN4_NGFR, NTF3_NGFR, APP_NGFR"
+"177","Neutrophils","Ionocytes",0,NA
+"178","SD","Ionocytes",0,""
+"179","Proliferative","Ionocytes",0,NA
+"180","Lymphatic","Ionocytes",3,"RTN4_NGFR, NTS_NGFR, APP_NGFR"
+"181","Acinar","Plasma cells",0,NA
+"182","T-cell","Plasma cells",0,""
+"183","B-cell","Plasma cells",0,""
+"184","ID","Plasma cells",0,""
+"185","Fibroblasts","Plasma cells",0,""
+"186","Macrophages","Plasma cells",0,""
+"187","NK cell","Plasma cells",0,""
+"188","Basal duct","Plasma cells",0,""
+"189","Endothelial","Plasma cells",0,""
+"190","Ionocytes","Plasma cells",0,""
+"191","Plasma cells","Plasma cells",0,NA
+"192","Monocytes","Plasma cells",0,""
+"193","Myoepithelial","Plasma cells",0,""
+"194","Pericytes","Plasma cells",0,""
+"195","Neutrophils","Plasma cells",0,NA
+"196","SD","Plasma cells",0,""
+"197","Proliferative","Plasma cells",0,NA
+"198","Lymphatic","Plasma cells",0,""
+"199","Acinar","Monocytes",0,NA
+"200","T-cell","Monocytes",0,""
+"201","B-cell","Monocytes",0,""
+"202","ID","Monocytes",0,""
+"203","Fibroblasts","Monocytes",1,"JAG1_NOTCH2"
+"204","Macrophages","Monocytes",0,""
+"205","NK cell","Monocytes",0,""
+"206","Basal duct","Monocytes",2,"JAG2_NOTCH2, JAG1_NOTCH2"
+"207","Endothelial","Monocytes",2,"JAG2_NOTCH2, JAG1_NOTCH2"
+"208","Ionocytes","Monocytes",0,""
+"209","Plasma cells","Monocytes",0,NA
+"210","Monocytes","Monocytes",0,""
+"211","Myoepithelial","Monocytes",1,"JAG2_NOTCH2"
+"212","Pericytes","Monocytes",1,"JAG1_NOTCH2"
+"213","Neutrophils","Monocytes",0,NA
+"214","SD","Monocytes",0,""
+"215","Proliferative","Monocytes",0,NA
+"216","Lymphatic","Monocytes",1,"JAG1_NOTCH2"
+"217","Acinar","Myoepithelial",0,NA
+"218","T-cell","Myoepithelial",0,""
+"219","B-cell","Myoepithelial",0,""
+"220","ID","Myoepithelial",2,"RTN4_NGFR, APP_NGFR"
+"221","Fibroblasts","Myoepithelial",6,"RTN4_NGFR, FGF7_FGFR1, FGF2_FGFR1, FGF10_FGFR2, FGF10_FGFR1, APP_NGFR"
+"222","Macrophages","Myoepithelial",1,"RTN4_NGFR"
+"223","NK cell","Myoepithelial",1,"NCAM1_FGFR1"
+"224","Basal duct","Myoepithelial",2,"RTN4_NGFR, APP_NGFR"
+"225","Endothelial","Myoepithelial",3,"RTN4_NGFR, FGF2_FGFR1, APP_NGFR"
+"226","Ionocytes","Myoepithelial",1,"APP_NGFR"
+"227","Plasma cells","Myoepithelial",0,NA
+"228","Monocytes","Myoepithelial",1,"RTN4_NGFR"
+"229","Myoepithelial","Myoepithelial",0,""
+"230","Pericytes","Myoepithelial",5,"RTN4_NGFR, NTF3_NTRK2, NTF3_NGFR, FGF7_FGFR1, APP_NGFR"
+"231","Neutrophils","Myoepithelial",0,NA
+"232","SD","Myoepithelial",0,""
+"233","Proliferative","Myoepithelial",0,NA
+"234","Lymphatic","Myoepithelial",3,"RTN4_NGFR, NTS_NGFR, APP_NGFR"
+"235","Acinar","Pericytes",0,NA
+"236","T-cell","Pericytes",0,""
+"237","B-cell","Pericytes",0,""
+"238","ID","Pericytes",0,""
+"239","Fibroblasts","Pericytes",5,"PGF_NRP1, JAG1_NOTCH3, FGF7_FGFR1, FGF2_FGFR1, FGF10_FGFR1"
+"240","Macrophages","Pericytes",0,""
+"241","NK cell","Pericytes",1,"NCAM1_FGFR1"
+"242","Basal duct","Pericytes",2,"JAG2_NOTCH3, JAG1_NOTCH3"
+"243","Endothelial","Pericytes",4,"PGF_NRP1, JAG2_NOTCH3, JAG1_NOTCH3, FGF2_FGFR1"
+"244","Ionocytes","Pericytes",0,""
+"245","Plasma cells","Pericytes",0,NA
+"246","Monocytes","Pericytes",0,""
+"247","Myoepithelial","Pericytes",2,"PGF_NRP1, JAG2_NOTCH3"
+"248","Pericytes","Pericytes",4,"PGF_NRP1, NTF3_NTRK2, JAG1_NOTCH3, FGF7_FGFR1"
+"249","Neutrophils","Pericytes",0,NA
+"250","SD","Pericytes",0,""
+"251","Proliferative","Pericytes",0,NA
+"252","Lymphatic","Pericytes",1,"JAG1_NOTCH3"
+"253","Acinar","Neutrophils",0,NA
+"254","T-cell","Neutrophils",0,""
+"255","B-cell","Neutrophils",0,""
+"256","ID","Neutrophils",0,""
+"257","Fibroblasts","Neutrophils",0,""
+"258","Macrophages","Neutrophils",0,""
+"259","NK cell","Neutrophils",0,""
+"260","Basal duct","Neutrophils",0,""
+"261","Endothelial","Neutrophils",0,""
+"262","Ionocytes","Neutrophils",0,""
+"263","Plasma cells","Neutrophils",0,NA
+"264","Monocytes","Neutrophils",0,""
+"265","Myoepithelial","Neutrophils",0,""
+"266","Pericytes","Neutrophils",0,""
+"267","Neutrophils","Neutrophils",0,NA
+"268","SD","Neutrophils",0,""
+"269","Proliferative","Neutrophils",0,NA
+"270","Lymphatic","Neutrophils",0,""
+"271","Acinar","SD",0,NA
+"272","T-cell","SD",0,""
+"273","B-cell","SD",0,""
+"274","ID","SD",0,""
+"275","Fibroblasts","SD",0,""
+"276","Macrophages","SD",0,""
+"277","NK cell","SD",0,""
+"278","Basal duct","SD",0,""
+"279","Endothelial","SD",0,""
+"280","Ionocytes","SD",0,""
+"281","Plasma cells","SD",0,NA
+"282","Monocytes","SD",0,""
+"283","Myoepithelial","SD",0,""
+"284","Pericytes","SD",0,""
+"285","Neutrophils","SD",0,NA
+"286","SD","SD",0,""
+"287","Proliferative","SD",0,NA
+"288","Lymphatic","SD",0,""
+"289","Acinar","Proliferative",0,NA
+"290","T-cell","Proliferative",0,""
+"291","B-cell","Proliferative",0,""
+"292","ID","Proliferative",0,""
+"293","Fibroblasts","Proliferative",0,""
+"294","Macrophages","Proliferative",0,""
+"295","NK cell","Proliferative",0,""
+"296","Basal duct","Proliferative",0,""
+"297","Endothelial","Proliferative",0,""
+"298","Ionocytes","Proliferative",0,""
+"299","Plasma cells","Proliferative",0,NA
+"300","Monocytes","Proliferative",0,""
+"301","Myoepithelial","Proliferative",0,""
+"302","Pericytes","Proliferative",0,""
+"303","Neutrophils","Proliferative",0,NA
+"304","SD","Proliferative",0,""
+"305","Proliferative","Proliferative",0,NA
+"306","Lymphatic","Proliferative",0,""
+"307","Acinar","Lymphatic",0,NA
+"308","T-cell","Lymphatic",1,"UBA52_NOTCH1"
+"309","B-cell","Lymphatic",2,"UBA52_NOTCH1, ADAM17_NOTCH1"
+"310","ID","Lymphatic",0,""
+"311","Fibroblasts","Lymphatic",7,"PGF_NRP2, MFAP5_NOTCH1, MFAP2_NOTCH1, JAG1_NOTCH1, FGF7_FGFR1, FGF2_FGFR1, FGF10_FGFR1"
+"312","Macrophages","Lymphatic",2,"PSEN1_NOTCH1, ADAM17_NOTCH1"
+"313","NK cell","Lymphatic",2,"NCAM1_FGFR1, MFNG_NOTCH1"
+"314","Basal duct","Lymphatic",4,"JAG2_NOTCH1, JAG1_NOTCH1, DLL1_NOTCH1, DLK2_NOTCH1"
+"315","Endothelial","Lymphatic",7,"PGF_NRP2, MFNG_NOTCH1, JAG2_NOTCH1, JAG1_NOTCH1, FGF2_FGFR1, DLL4_NOTCH1, DLL1_NOTCH1"
+"316","Ionocytes","Lymphatic",0,""
+"317","Plasma cells","Lymphatic",0,NA
+"318","Monocytes","Lymphatic",4,"UBA52_NOTCH1, PSEN1_NOTCH1, MFNG_NOTCH1, ADAM17_NOTCH1"
+"319","Myoepithelial","Lymphatic",4,"PGF_NRP2, JAG2_NOTCH1, DLK2_NOTCH1, DLK1_NOTCH1"
+"320","Pericytes","Lymphatic",3,"PGF_NRP2, JAG1_NOTCH1, FGF7_FGFR1"
+"321","Neutrophils","Lymphatic",0,NA
+"322","SD","Lymphatic",0,""
+"323","Proliferative","Lymphatic",0,NA
+"324","Lymphatic","Lymphatic",4,"MFAP2_NOTCH1, JAG1_NOTCH1, DLL4_NOTCH1, DLL1_NOTCH1"
